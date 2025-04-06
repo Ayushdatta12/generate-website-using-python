@@ -3,7 +3,7 @@ import os
 import webbrowser
 import random
 #from dotenv import load_dotenv
-gemkey='AIzaSyCUVaJty3Wo9mI0EpV5pOZD2joqNV1whyQ'
+gemkey='enter your api key'
 def create_html_file(filename, content):
     with open(filename, 'w') as f:
         f.write(content)
